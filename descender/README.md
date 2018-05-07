@@ -10,3 +10,7 @@
 ![descender_top.jpg](descender_top.jpg)
 
 
+## Bottom part
+
+![descender_bottom.jpg](descender_bottom.jpg)
+
